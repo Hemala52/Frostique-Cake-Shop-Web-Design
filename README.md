@@ -18,7 +18,7 @@ This repository contains the UI/UX design prototype files created in Figma for a
 
 To view the Figma prototype:
 
-1. Access the Figma file [here](#) (Insert link to your Figma file).
+1. Access the Figma file https://shorturl.at/jUXGX
 2. Navigate through the frames and artboards to explore various sections of the website design.
 
 ---
